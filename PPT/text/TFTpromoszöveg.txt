@@ -4,7 +4,7 @@ Nem szeretnéd ,hogy az adataidat ellopják munka közben?
 Szeretnél egy kedves megbízható segítőkész Tech Support céget?
 Akkor válassz minket! Az elIT Innovation!
 
-Mi szakképzésünk Linux, Windows, Python, C#, HTML, Bootstrap, CSS, és még a többi.
+Mi szakképzésünk Linux, Windows, Python, C#, HTML, Bootstrap, Kotlin, CSS, és még a többi.
 Képesek vagyunk weboldalak létrehozására hálózatok kiépítésére, programokat írni mindent megtudunk csinálni ami az Informatikával kapcsolatos.
 A cég 2020-as indulása óta nagyon sok sikeres megbízást teljesítettek. Ezek közé tartozik : Cégek hálózatának kiépítése, weboldalak szerkesztése, programok fejlesztése a céget 3 ember vezeti.
 Sólyom Richárd, Tóth Károly Attila , Komlósi András.
@@ -13,7 +13,7 @@ Ez a 3 ember a céget közösen alapította meg de mindenkinek más a munka kör
 
 Sólyom Richárd : 
 
-Miután sikeresen elvégeztem a Neumann János Informatikai technikumot, Az Elte informatikai karán folytattam a tanulmányomat. A egyetem befejezése után 3 évet dolgoztam a Google-nél mint programozó, viszont az álmom mindig is az egyéni válalkozás volt. Így miután felmondtam a munkahelyemen felkerestem kettő Neumanos osztálytársamat, (Komlósi András, Tóth Károly) hogy közösen alapítsuk meg a cégünket. Ez 2020-ban az álmom valóra vált és elindítottuk az elIT Innovations cégünket.
+Miután sikeresen elvégeztem a Neumann János Informatikai technikumot, Az Elte informatikai karán folytattam a tanulmányomat. A egyetem befejezése után 3 évet dolgoztam a Google-nél mint programozó, viszont az álmom mindig is az egyéni válalkozás volt. Így miután felmondtam a munkahelyemen felkerestem kettő Neumanos osztálytársamat, (Komlósi András, Tóth Károly) hogy közösen alapítsuk meg a cégünket. Ez az álmom 2020-ban valóra vált és elindítottuk az elIT Innovations cégünket.
 
 Tanulmányaim: Dr Mező Ferenc Általános Iskola
               Neumann János Informatikai Technikum
@@ -42,6 +42,7 @@ Tanulmányaim :
 
 
 Komlósi András :
+Régóta érdekelt az informatika és a programozás, ezért választottam ezt a pályát. Mindig is kerestem az alternatív megoldásokat, ugyan az egyetem után 2 évig dolgoztam a Samsung-nál, ez nem az én stílusom volt. A Samsung után saját vállalkozásként alkalmazásokat és weblapokat fejlesztettem külömbőző cégeknek, illetve kisebb vállalkozásoknak segítettem informatikai rendszereik kialakításában. 2019 nyarán keresett meg volt középiskolás osztálytársam azzal az ötlettel hogy alapítsunk közösen egy informatikai céget, ez 2020-ban sikerült, azóta sok külömböző sikeres munka áll a hátunk mögött. így kötöttem ki itt.
 
 
 
