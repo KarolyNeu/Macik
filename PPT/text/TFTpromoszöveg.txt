@@ -42,7 +42,13 @@ Tanulmányaim :
 
 
 Komlósi András :
-Régóta érdekelt az informatika és a programozás, ezért választottam ezt a pályát. Mindig is kerestem az alternatív megoldásokat, ugyan az egyetem után 2 évig dolgoztam a Samsung-nál, ez nem az én stílusom volt. A Samsung után saját vállalkozásként alkalmazásokat és weblapokat fejlesztettem külömbőző cégeknek, illetve kisebb vállalkozásoknak segítettem informatikai rendszereik kialakításában. 2019 nyarán keresett meg volt középiskolás osztálytársam azzal az ötlettel hogy alapítsunk közösen egy informatikai céget, ez 2020-ban sikerült, azóta sok külömböző sikeres munka áll a hátunk mögött. így kötöttem ki itt.
+Régóta érdekelt az informatika és a programozás, ezért választottam ezt a pályát. Mindig is kerestem az alternatív megoldásokat, ugyan az egyetem után 2 évig dolgoztam a Samsung-nál, ez nem az én stílusom volt. A Samsung után saját vállalkozásként alkalmazásokat és weblapokat fejlesztettem külömbőző cégeknek, illetve kisebb vállalkozásoknak segítettem informatikai rendszereik kialakításában. 2019 nyarán keresett meg volt középiskolás osztálytársam azzal az ötlettel hogy alapítsunk közösen egy informatikai céget, ez 2020-ban sikerült, azóta sok külömböző sikeres munka áll a hátunk mögött. Így kötöttem ki itt.
+
+Tanulmányaim : 
+        Herman Ottó Általános Iskola
+        Eötvös Loránd Tudományegyetem Informatikai kara
+        2 év munka a Samsungnál
+        3év saját vállalkozás
 
 
 
